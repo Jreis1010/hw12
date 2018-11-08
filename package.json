@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework12's bamazon",
+  "main": "bamazonCostumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jreis1010/hw12.git"
+  },
+  "author": "JoaoReis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jreis1010/hw12/issues"
+  },
+  "homepage": "https://github.com/Jreis1010/hw12#readme"
+}
